@@ -1,0 +1,47 @@
+body {
+    display: inline;
+}
+
+.menu {
+    background-color: #24292f; /*384a50;*/
+    display: block;
+}
+
+header .menu {
+    font-family: 'Karla', sans-serif;
+    font-size: 14px;
+    color: #738085;
+    text-transform: uppercase;
+    display: flex;
+    padding: 15px 30px;
+    border-right: 1px solid #dae6ec;
+    margin-right: 15px;
+}
+
+nav {
+    display: block;
+    height: 30px;
+} 
+
+nav ul {
+    list-style: none;
+    margin: auto;
+    display: flex;
+    float: right;
+}
+
+nav ul li {
+    height: 25px; 
+    width: 120px;
+}
+
+.menu nav ul li a {
+    text-decoration: none; 
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+nav ul li a:hover {
+    background-color: grey;
+}
