@@ -25,3 +25,15 @@ body {
     color: #fff;
     font-weight: 800;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer iframe{
+    border: 0px;
+    max-height: 250px;
+    background-color: grey
+}
