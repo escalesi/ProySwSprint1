@@ -1,0 +1,23 @@
+.columnas {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 24px;
+    width: 24px;
+}
+
+.formulario {
+    background-color: #ebf0f3;
+    width: 100%;
+    height: 575px;
+    justify-content: center;
+}
+
+.formulario h1 {
+    display: flex;
+    justify-content: center;
+}
