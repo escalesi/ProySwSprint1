@@ -21,3 +21,39 @@ img {
     display: flex;
     justify-content: center;
 }
+
+form div.datos {
+    display: flex;
+    justify-content: space-around;
+}
+
+form div input {
+    width: 275px;
+    height: 45px;
+}
+
+div.msg {
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+    margin: 50px;
+    width: 50%;
+    min-height: 100px;
+}
+
+.subm {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #000000;
+    border: none;
+    padding: 12px 25px;
+}
+
+div.boton {
+    display: flex;
+    justify-content: center;
+}
