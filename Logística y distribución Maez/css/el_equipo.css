@@ -1,0 +1,23 @@
+.contenido {
+    min-height: 500px;
+}
+
+.fila1 {
+    display: flex;
+    margin: 100px;
+}
+
+.descripcion {
+    width: 50%;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    color: #384a50;
+    text-align: left;
+    line-height: 29px;
+    padding: 7px 0;
+    font-weight: 300;
+}
+}
