@@ -1,0 +1,30 @@
+.contenido {
+    min-height: 500px;
+}
+
+img {
+    width: 75px!important;
+}
+
+.fila1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fila2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjeta {
+    /*border: 1px solid #ebebeb;*/
+    box-shadow: 0 5px 20px 0 rgb(0 0 0 / 30%);
+    padding: 30px 30px 60px 30px;
+    margin-top: 30px;
+    width: 230px; 
+    height: 240px;
+}
+
+footer {
+    margin-top: 15%;
+}

@@ -13,8 +13,7 @@ body {
 .banner {
     background-color: #384a50;
     height: 175px;
-    width: 100%;
-    padding-left: 50px;
+    padding-left: 200px;
     display: flex;
     align-items: center;
 }
@@ -33,7 +32,6 @@ body {
 
 footer {
     bottom: 0;
-    width: 100%;
 }
 
 footer iframe{
