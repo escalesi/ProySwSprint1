@@ -18,6 +18,8 @@ img {
 }
 
 .formulario h1 {
+    color: #384a50;
+    text-transform: uppercase;
     display: flex;
     justify-content: center;
 }
