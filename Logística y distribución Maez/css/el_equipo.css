@@ -4,7 +4,7 @@
 
 .fila1 {
     display: flex;
-    margin: 100px;
+    margin: 50px;
 }
 
 .descripcion {
@@ -12,12 +12,12 @@
 }
 
 p {
-    font-family: 'Roboto Slab', serif;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
     font-size: 16px;
+    line-height: 1.5;
     color: #384a50;
     text-align: left;
-    line-height: 29px;
-    padding: 7px 0;
     font-weight: 300;
+    margin-top: 0;
 }
-}
+
