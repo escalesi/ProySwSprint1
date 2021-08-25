@@ -5,6 +5,13 @@
     justify-content: space-around;
 }
 
+div.col1, div.col2, div.col3 {
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 15px;
+}
+
 img {
     width: 24px;
     width: 24px;
